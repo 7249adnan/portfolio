@@ -1,0 +1,21 @@
+.heading-main{
+    color: white ;
+    margin-top: 1rem;
+}
+
+.skill-category {
+  margin-bottom: 15px;
+}
+
+.skill-category h5 {
+  color: #f5b642 !important;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.skill-category p {
+  margin: 0;
+  margin-left: 1rem;
+  color: #fff;
+  line-height: 1.6;
+}
